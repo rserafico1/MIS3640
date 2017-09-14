@@ -1,3 +1,4 @@
+# Class Exercises 
 def print_lyrics(): 
     print("Hey Jude. Don't Make it bad.")
     print("Take a sad song and made it better.")
